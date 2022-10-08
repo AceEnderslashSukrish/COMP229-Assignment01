@@ -1,0 +1,19 @@
+{
+  "name": "comp229-assignment01",
+  "version": "1.0.0",
+  "description": "Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceEnderslashSukrish/COMP229-Assignment01.git"
+  },
+  "author": "Sukrish Gokulakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AceEnderslashSukrish/COMP229-Assignment01/issues"
+  },
+  "homepage": "https://github.com/AceEnderslashSukrish/COMP229-Assignment01#readme"
+}
